@@ -13,7 +13,7 @@ from helper_func import encode, decode, get_messages, is_user_joined
 from database.database import add_user, del_user, full_userbase, present_user
 
 
-CHANNELS = ["-1001666853400", "-1001973396740",]
+CHANNELS = ["-1001886813820", "-1001921469908",]
 
 
 async def get_invite_link(client, channel):
